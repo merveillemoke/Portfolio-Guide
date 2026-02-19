@@ -9,9 +9,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description|
+| Project Link | Area | Project Description|
 |---|---|---|
-|[Library Operations & Performance Analytics](https://github.com/merveillemoke/Library-Operations-Performance-Analytics-SQL-Project-/tree/main)| | |
+|[Library Operations & Performance Analytics](https://github.com/merveillemoke/Library-Operations-Performance-Analytics-SQL-Project-/tree/main)| Database Management, SQL Development|This is a relational database project that simulates a multi-branch library system. It includes database design, CRUD operations, analytical SQL queries, and CTAS reporting tables|
 
 *** 
 
